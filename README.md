@@ -1,3 +1,3 @@
 # trelloClone
 
-la documentation de l'api sera ajoutée plus tôt
+la documentation de l'Api sera ajoutée plus tôt
